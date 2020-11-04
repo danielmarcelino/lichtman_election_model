@@ -6,7 +6,6 @@ import sys
 import csv
 from termcolor import colored
 from itertools import zip_longest
-from progress.bar import Bar
 
 results = {}
 
