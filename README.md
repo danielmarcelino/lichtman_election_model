@@ -25,7 +25,7 @@ Demorat: 264.28, Republican 273.43
 ```
 
 
-## Results Output (For Lichtman2020.com)
+## Results Output
 ```
 python3 simulation.py results
 ```
